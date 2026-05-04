@@ -1,0 +1,6 @@
+[project]
+name = "my_lua_project"
+version = "0.1.0"
+
+[dependencies]
+class = "https://raw.githubusercontent.com/mstvb/lua-libs/master/libraries/class.lua"
